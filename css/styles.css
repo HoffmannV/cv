@@ -1,0 +1,24 @@
+p {
+	text-align: justify;
+	max-width: 800px;
+}
+
+h1 {
+	color: #252A34;
+}
+
+h3 {
+	color: #252A34;
+	text-decoration-line: underline;
+	text-decoration-color: #252A34;
+}
+
+body {
+	background-color: #EAEAEA;
+}
+hr {
+	border-color: 252A34;
+	border-width: 6px;
+	border-style: dotted none none none;
+	width: 4%;
+}
